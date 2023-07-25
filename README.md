@@ -1,6 +1,6 @@
 # ejs-renderer-in-php
 Parts of this code are AI generated, keeping risks onn security in mind please refrain from using this in production
-```
+```php
 // Example usage:
 $data = [
     'title' => "Fully Fledged EJS Renderer in PHP",
